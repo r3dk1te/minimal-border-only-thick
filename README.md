@@ -2,9 +2,15 @@
 
 A minimalist XFWM4 window theme with **double-thickness borders**, **rounded corners**, and a subtle **Gruvbox Material** color palette.
 
+## Screenshots 
+
+![Screenshot 1](screenshots/border-only.png)
+![Screenshot 2](screenshots/border-only2.png)
+
+
 ## Overview
 
-This is an enhanced version of the original [Border Only (Thicker)](https://www.xfce-look.org/p/1016214/) theme for XFCE. It features:
+This is an enhanced version of the original [Border Only](https://www.xfce-look.org/p/1016214/) theme for XFCE. It features:
 
 - **4px borders** (doubled from original 2px) for better resize grip
 - **Uniform border thickness** across all sides including title bar
