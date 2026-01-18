@@ -1,0 +1,10 @@
+/* XPM */
+static char * bottom_right_active = {
+"4 4 2 1",
+".      c none",
+"#      c #32302f",
+"####",
+"###.",
+"##..",
+"#...",
+};
